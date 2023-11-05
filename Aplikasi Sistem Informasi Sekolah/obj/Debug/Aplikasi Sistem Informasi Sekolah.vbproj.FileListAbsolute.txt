@@ -1,0 +1,19 @@
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\bin\Debug\Aplikasi Sistem Informasi Sekolah.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\bin\Debug\Aplikasi Sistem Informasi Sekolah.exe
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\bin\Debug\Aplikasi Sistem Informasi Sekolah.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\bin\Debug\Aplikasi Sistem Informasi Sekolah.xml
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi Sistem Informasi Sekolah.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.halaman_utama.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi Sistem Informasi Sekolah.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi Sistem Informasi Sekolah.exe
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi Sistem Informasi Sekolah.xml
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi Sistem Informasi Sekolah.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.login.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.MenuAdmin.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.DataGuru.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.DataJurusan.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.DataKelas.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.DataSiswa.resources
+C:\Users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.DataMapel.resources
+C:\Users\m3m\documents\visual studio 2015\Projects\Aplikasi Sistem Informasi Sekolah\Aplikasi Sistem Informasi Sekolah\obj\Debug\Aplikasi_Sistem_Informasi_Sekolah.Tentang.resources
